@@ -1,0 +1,16 @@
+{
+  "BTCUSDT": {
+    "asset": "BTC",
+    "market": "CRYPTO",
+    "quantity": 0.5,
+    "avg_price": 38000,
+    "currency": "USD"
+  },
+  "ETHUSDT": {
+    "asset": "ETH",
+    "market": "CRYPTO",
+    "quantity": 2.0,
+    "avg_price": 2100,
+    "currency": "USD"
+  }
+}

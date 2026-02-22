@@ -1,0 +1,12 @@
+body {
+  background-color: #0b0f14;
+  color: #eaecef;
+  font-family: Consolas, monospace;
+}
+
+.panel {
+  background: #121820;
+  border-radius: 6px;
+  padding: 12px;
+  margin: 10px;
+}
